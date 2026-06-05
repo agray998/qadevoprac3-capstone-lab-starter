@@ -1,6 +1,6 @@
 app:
   version: latest
-  repo: qa-tech-training
+  repo: agray998
 
 service:
   port: 3000
